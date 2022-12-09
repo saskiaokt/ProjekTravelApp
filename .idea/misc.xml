@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/atmpayment.xml" value="0.1975" />
+        <entry key="app/src/main/res/drawable/dufan_ic_launcher_background.xml" value="0.2145" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1065" />
+        <entry key="app/src/main/res/layout-w1240dp/activity_login2.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.295709228515625" />
+        <entry key="app/src/main/res/layout/activity_login2.xml" value="0.14010416666666667" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2233169555664061" />
+        <entry key="app/src/main/res/layout/activity_payment.xml" value="0.2947916666666667" />
+        <entry key="app/src/main/res/layout/activity_place.xml" value="0.18135528564453124" />
+        <entry key="app/src/main/res/layout/activity_second.xml" value="0.26856884057971014" />
+        <entry key="app/src/main/res/layout/travel_item.xml" value="0.33087310791015623" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/dufan_ic_launcher.xml" value="0.2145" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/dufan_ic_launcher_round.xml" value="0.2145" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/logotravel1_ic_launcher.xml" value="0.2875" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/logotravel1_ic_launcher_round.xml" value="0.2875" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/logotravel2_ic_launcher.xml" value="0.174" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/logotravel2_ic_launcher_round.xml" value="0.174" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/logotravel_ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.26856884057971014" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
